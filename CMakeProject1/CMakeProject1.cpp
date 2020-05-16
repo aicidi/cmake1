@@ -2,7 +2,6 @@
 //
 
 #include "CMakeProject1.h"
-#include <fstream>
 
 std::string read_setting(const std::string name)
 {
